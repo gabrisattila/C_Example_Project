@@ -1,0 +1,12 @@
+A "Vakcin-áció" keretében kérni kell a hatóságoktól az oltást. 
+Ezt a megfelelő adatok megadásával tudjuk megtenni.  
+A megszaporodott igények szerint nem elég a telefonos igényfelvétel, 
+így egy alkalmazás segíti az ügyfelek igényeinek rögzítését.
+ A jelentkezés során meg kell adni a páciens nevét, évszámát és telefonszámát. 
+Ezen alapadatok mellett tudja megjelölni azt, 
+hogy az ingyenes szolgáltatás helyett vállalja a fizetős felárat is.  
+(Például: Vakci Áci, 1953, 36301234567, igen )
+A jelentkezői adatokat fájlban tároljuk, 
+az adatfelvételen túl legyen lehetőségünk az adatokon módosítani, 
+törölni vagy teljes listát készíteni.
+
